@@ -34,16 +34,3 @@ The dataset used in this project contains various features related to houses, su
 2. **Lasso Regression:**
    - Applied Lasso regression with GridSearchCV to find the optimal alpha.
    - Evaluated model performance using RMSE and R² scores.
-
-### Results
-
-- **Ridge Regression:**
-  - Optimal alpha: 100.0
-  - RMSE: 35,665.15
-  - R²: 0.834
-
-- **Lasso Regression:**
-  - Optimal alpha: 100.0
-  - RMSE: 35,145.09
-  - R²: 0.839
-
